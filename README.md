@@ -1,5 +1,5 @@
-# My First DevOps Project
-This is my first Git repository for DevOps training.
-
-## Footer
-Created during DevOps training Day 1
+# My DevOps Training Project 
+## Introduction 
+Welcome to my DevOps learning journey. 
+## Features - Git basics - Jenkins setup - Docker introduction 
+Created during DevOps training Day 1 
